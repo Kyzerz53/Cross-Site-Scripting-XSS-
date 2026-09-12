@@ -1,5 +1,5 @@
 # 🎯 Cross-Site Scripting (XSS) — Tam Türkçe Rehber 2026
-
+ 
 > **vNEz** tarafından hazırlanmıştır. Bug Bounty ve Red Team operasyonlarında kullanılan gerçek XSS tekniklerini kapsar.
 > 
 > ⚠️ **Yasal Uyarı:** Bu rehberdeki teknikler yalnızca yetkili sistemlerde (bug bounty programları, kendi lab ortamın, CTF) kullanılmak üzere hazırlanmıştır. İzinsiz sistemlerde uygulamak yasaldır.
